@@ -20,7 +20,7 @@ To use the GooglePhotoTakeout_Correct script, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/GooglePhotoTakeout_Correct.git
+   git clone https://github.com/paulxiong/GooglePhotoTakeout_Correct.git
    ```
 
 2. Navigate to the project folder:
